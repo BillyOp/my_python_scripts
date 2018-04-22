@@ -1,0 +1,9 @@
+def studentages(a, b, c, d):
+    return a, b, c, d
+
+my_list = [12, 23, 31, 44]
+
+# studentages(my_list)
+
+# Concept learned today - unpacking in python
+studentages(*my_list)
