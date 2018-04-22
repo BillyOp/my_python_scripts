@@ -1,0 +1,10 @@
+# Python Palindromes
+entered_string = input("Enter a Palindrome - ")
+string_array = entered_string.split()
+reversed_string = string_array.reverse()
+print(string_array)
+print(reversed_string)
+
+
+values = [1, 2, 3, 4]
+print(values.reverse())

@@ -1,0 +1,3 @@
+//Javascript Loops
+var days_of_the_week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+console.log(days_of_the_week);

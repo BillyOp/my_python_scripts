@@ -1,0 +1,32 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\BILLY\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\python2\com.python.pydev.analysis\v2_indexcache
+datatype|1493568304509115000|C:\Users\BILLY\workspace\python2\datatype.py
+introduction|1492526017479137000|C:\Users\BILLY\workspace\python2\introduction.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=datatype
+1=introduction
+-- END DICTIONARY
+-- START TREE 1
+15
+add|1|address!11@
+cup|1|cupsOfFloor!19@
+egg|1|eggs_per_cake!19@
+ema|1|emailaddress!11@
+fis|1|fish!19@
+ful|1|fullname!11@
+mag|1|magic_number!19@
+myf|1|myfloat!19@
+myi|1|myint!19@
+mys|1|mystring!19@
+nam|1|name!19@
+num|1|number_of_cakes!19@
+pas|1|password!11@
+tot|1|total_eggs!19@
+x|1|x!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,12 @@
+# Python Palindromes
+entered_string = input("Enter a Palindrome - ")
+string_array = entered_string.split()
+# array_length
+# array_iterator
+reversed_string = []
+word_array_length = string_array.length
+for value in string_array:
+    reversed_string[word_array_length - 1] = value
+
+print(reversed_string)
+

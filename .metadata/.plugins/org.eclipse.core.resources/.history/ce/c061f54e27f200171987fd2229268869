@@ -1,0 +1,6 @@
+# Python Palindromes
+entered_string = input("Enter a Palindrome - ")
+string_array = entered_string.split()
+print(string_array)
+print(''.join(string_array))
+

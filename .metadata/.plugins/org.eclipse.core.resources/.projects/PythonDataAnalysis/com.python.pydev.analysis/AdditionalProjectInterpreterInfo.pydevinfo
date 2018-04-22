@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\BILLY\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\PythonDataAnalysis\com.python.pydev.analysis\v2_indexcache
+script|1516181434341181000|C:\Users\BILLY\workspace\PythonDataAnalysis\script.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=script
+-- END DICTIONARY
+-- START TREE 1
+7
+ave|1|average!11@
+emp|1|empty_numpy!11@
+lis|1|list_of_wines!11@
+no_|2|no_of_columns!11@no_of_rows!11@
+qua|1|qualities!11@
+ran|1|random_value_numpy!11@
+win|2|wines!11@wine_list_narray!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,5 @@
+# Python Palindromes
+entered_string = input("Enter a Palindrome - ")
+string_array = entered_string.split(sep=None, maxsplit=1)
+print(string_array)
+print(string_array.sort(key=None, reverse=True))

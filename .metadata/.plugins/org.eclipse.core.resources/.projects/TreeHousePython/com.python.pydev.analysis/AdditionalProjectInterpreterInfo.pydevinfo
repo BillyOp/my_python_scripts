@@ -1,0 +1,21 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\BILLY\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TreeHousePython\com.python.pydev.analysis\v2_indexcache
+palindrome|1515167014951041000|C:\Users\BILLY\workspace\TreeHousePython\palindrome.py
+variables|1515156076052258000|C:\Users\BILLY\workspace\TreeHousePython\variables.py
+hello_world|1515157201690535000|C:\Users\BILLY\workspace\TreeHousePython\hello_world.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=palindrome
+-- END DICTIONARY
+-- START TREE 1
+4
+ent|1|entered_string!11@
+len|1|length_of_string!11@
+rev|1|reversed_string!11@
+str|1|string_array!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
