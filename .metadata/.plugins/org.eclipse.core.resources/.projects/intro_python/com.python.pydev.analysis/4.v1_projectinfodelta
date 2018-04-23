@@ -1,6 +1,6 @@
-INSTUPpacking
-C:\Users\BILLY\workspace\intro_python\packing.py
-INFOS:&&2|1|2|0&&3|3|2|0
-studentages=1
-packing=2
-my_list=3
+INSTUPnamedtuple
+C:\Users\BILLY\workspace\intro_python\namedtuple.py
+INFOS:&&3|1|2|0&&3|3|2|0
+Car=1
+cayene=3
+namedtuple=2
